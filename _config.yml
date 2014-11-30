@@ -1,0 +1,11 @@
+# Site settings
+title: Exploring Mobile by Prototype 
+email: igorkantor@icloud.com
+description: > #Mobile development exploration and prototyping blog by Igor Kantor
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://iiiggs.github.io" # the base hostname & protocol for your site
+twitter_username: Iiiggs
+github_username:  Iiiggs
+
+# Build settings
+markdown: kramdown
