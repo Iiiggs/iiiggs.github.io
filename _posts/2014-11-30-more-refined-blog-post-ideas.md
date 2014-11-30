@@ -32,3 +32,4 @@ comments: true
 * https://github.com/showcases/machine-learning
 * http://prediction.io
 
+These ideas getting any better? Tell me. 
