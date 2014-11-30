@@ -9,8 +9,6 @@ layout: default
   </header>
 
   <article class="post-content">
-    {{ content }}
-
     {% assign author = site.data.authors[page.author] %}
     
     <!-- Output author details if some exist. -->
@@ -23,6 +21,8 @@ layout: default
             Written by <a href="{{ author.web }}" target="_blank">{{ author.name }}</a>
         </span>
     {% endif %}
+  
+    {{ content }}
 
     {% if page.comments %}
     	<div id="disqus_thread"></div>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exploring Mobile by Prototype</title>
+    <description></description>
+    <link>https://iiiggs.github.io/</link>
+    <atom:link href="https://iiiggs.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 30 Nov 2014 14:35:36 -0700</pubDate>
+    <lastBuildDate>Sun, 30 Nov 2014 14:35:36 -0700</lastBuildDate>
+    <generator>Jekyll v2.5.2</generator>
+    
+      <item>
+        <title>More refined blog post ideas</title>
+        <description>&lt;h3 id=&quot;optimizing-visit-detection-for-battery-usage&quot;&gt;Optimizing visit detection for battery usage&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Visit detection with location timer&lt;/li&gt;
+  &lt;li&gt;When stopped, add large geofence where radius is the the distance to closest POI&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;code-reuse-with-xamarin-ios-and-android-example&quot;&gt;Code Reuse with Xamarin iOS and Android Example&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;something with data visualization? &lt;/li&gt;
+  &lt;li&gt;maybe visit detection? beacons?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;simple-cloud-backend-example-with-aws--mongolab&quot;&gt;Simple Cloud Backend Example with AWS + MongoLab&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;find out which account the AutoFlight API lives under&lt;/li&gt;
+  &lt;li&gt;give credit and link to Katz for the Mongo Backend example&lt;/li&gt;
+  &lt;li&gt;simplify the process? Explain in own words. Add some extras. &lt;/li&gt;
+  &lt;li&gt;explain MongoLab integration&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;github-project-spotlight-dollarswift&quot;&gt;GitHub Project Spotlight: Dollar.swift&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;https://github.com/ankurp/Dollar.swift&lt;/li&gt;
+  &lt;li&gt;pick some goodies from Dollar and Cent&lt;/li&gt;
+  &lt;li&gt;contrast them with swift alternatives&lt;/li&gt;
+  &lt;li&gt;suggestions for additions - call to action&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;first-look-at-machine-learning&quot;&gt;First Look at Machine Learning&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;https://github.com/showcases/machine-learning&lt;/li&gt;
+  &lt;li&gt;http://prediction.io&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These ideas getting any better? Tell me. &lt;/p&gt;
+</description>
+        <pubDate>Sun, 30 Nov 2014 05:30:00 -0700</pubDate>
+        <link>https://iiiggs.github.io/blogging/2014/11/30/more-refined-blog-post-ideas.html</link>
+        <guid isPermaLink="true">https://iiiggs.github.io/blogging/2014/11/30/more-refined-blog-post-ideas.html</guid>
+        
+        
+        <category>blogging</category>
+        
+      </item>
+    
+      <item>
+        <title>My blog post ideas</title>
+        <description>&lt;h3 id=&quot;what-do-you-want-to-know-about&quot;&gt;What do you want to know about?&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Mobile architecture&lt;/li&gt;
+  &lt;li&gt;Android&lt;/li&gt;
+  &lt;li&gt;Mobile dev patterns&lt;/li&gt;
+  &lt;li&gt;Location/Motion APIs&lt;/li&gt;
+  &lt;li&gt;App Design&lt;/li&gt;
+  &lt;li&gt;SpriteKit/SceneKit for Data Visualization&lt;/li&gt;
+  &lt;li&gt;Xamarin and other frameworks&lt;/li&gt;
+  &lt;li&gt;Market research&lt;/li&gt;
+  &lt;li&gt;AppStore Favorites&lt;/li&gt;
+  &lt;li&gt;GitHub projects
+    &lt;ul&gt;
+      &lt;li&gt;dollar-and-cent&lt;/li&gt;
+      &lt;li&gt;patterns&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Drone programming&lt;/li&gt;
+  &lt;li&gt;Data analytics&lt;/li&gt;
+  &lt;li&gt;SurveyMini&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Tell me what you think about these? &lt;/p&gt;
+</description>
+        <pubDate>Sat, 29 Nov 2014 09:34:00 -0700</pubDate>
+        <link>https://iiiggs.github.io/blogging/2014/11/29/my-blog-post-ideas.html</link>
+        <guid isPermaLink="true">https://iiiggs.github.io/blogging/2014/11/29/my-blog-post-ideas.html</guid>
+        
+        
+        <category>blogging</category>
+        
+      </item>
+    
+  </channel>
+</rss>
