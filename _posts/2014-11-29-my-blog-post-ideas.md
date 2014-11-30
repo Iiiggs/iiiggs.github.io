@@ -5,6 +5,7 @@ date:   2014-11-29 16:34:00
 categories: blogging
 thumbnail: http://www.citybeat.us/wp-content/uploads/2014/05/bigstock-Mobile-And-Tablet-Business-Com-53901223-300x300.jpg
 comments: true
+author: igor_kantor
 ---
 
 ### What do you want to know about?

@@ -5,6 +5,7 @@ date:   2014-11-30 12:30:00
 categories: blogging
 thumbnail: http://www.orangesquare.com/stuff/contentmgr/files/0/f8807454f3c6788c473e4bcf23507623/image/refine_illustration.jpg
 comments: true
+author: igor_kantor
 ---
 
 
