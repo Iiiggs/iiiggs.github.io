@@ -1,5 +1,3 @@
-# Igor Kantor 2017 Goals
-
 ## Goal #1
 
 **Objective:** Continue to build a special place by keeping fun and team as top core values and create an engaging working environment
@@ -9,7 +7,7 @@
 **Steps:**
 1. Brainstorm and capture ideas from team on how to make MCoE special
 2. Review ideas with leadership
-3. Find teammates to help own implementation  of approved ideas
+3. Find teammates to help own impelementation of approved ideas
 4. Continue to validate direction with team on regular basis 
 
 **Milestones:**
@@ -25,14 +23,14 @@
 
 **Steps:**
 1) Help mature telemedicine solution architecture
-2) Iterate  on iOS-side text and video chat implementation 
-3) Help business  partners with demos and white-glove on-boarding 
+2) Itterate on iOS-side text and video chat implemenation 
+3) Help busienss partners with demos and white-glove on-boarding 
 
 **Milestones:**
 * Implement homegrown text chat solution - Done
 * Help develop and support iPad app for Insurance Management Team - Done
-* Develop telemedicine pilot app for CA business  partners - 8/15/17
-* Improve vendor-based video chat solution - 12/31/17
+* Develop telemedicine pilot app for CA busines partners - 8/15/17
+* Decouble video/text chat from custom VSee SSO/Waiting Room implementation   to allow for better user experience - 12/31/17
 
 
 ## Goal #3
